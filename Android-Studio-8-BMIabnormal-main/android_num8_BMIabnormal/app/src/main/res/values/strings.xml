@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">android_num8_BMIabnormal</string>
+    <string name="Hw8_height">輸入身高:</string>
+    <string name="Hw8_weight">輸入體重:</string>
+    <string name="Hw8_BMIvalue">你的BMI指數為:</string>
+    <string name="Hw8_result">檢測結果為:</string>
+    <string name="Hw8_BMI_compute">計算BMI</string>
+    <string name="Hw8_back">上一頁</string>
+    <string name="Hw8_title">BMI異常判斷</string>
+    <string name="Hw8_Answer">結果</string>
+</resources>
